@@ -1,10 +1,10 @@
-#README
+# README
 
 Provide a script file to configure proxy settings.
 
 ### Config
 
-Edit .ProxyConfig  
+Edit .ProxyConfig
 ```
 PROXY="<URL>:<PORT>"
 ```
