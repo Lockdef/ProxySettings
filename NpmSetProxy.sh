@@ -1,5 +1,5 @@
 . ~/sh/.ProxyConfig
 
-npm -g config set proxy "http://${PROXY}"
-npm -g config set https-proxy "https://${PROXY}"
-npm -g config set registry "http://registry.npmjs.org/"
+sudo npm -g config set proxy "http://${PROXY}"
+sudo npm -g config set https-proxy "https://${PROXY}"
+sudo npm -g config set registry "http://registry.npmjs.org/"
